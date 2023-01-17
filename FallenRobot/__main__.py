@@ -113,7 +113,7 @@ buttons = [
         InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/LOVERS_DUNIA"),
+        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/Tg_Friendss"),
         InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
         InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
     ],
@@ -138,7 +138,7 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『LOVERS GROUP』🔥](https://t.me/lovers_dunia)
+𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
                    
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
