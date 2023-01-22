@@ -89,15 +89,24 @@ PM_START_TEXT = """
 
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-𝐘𝐄 𝐁𝐎𝐓 𝐁𝐇𝐈 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
-┏━━━━━━━━━━━━━━━━━━┓
-┣★ [MISS ROSE ROBOT](https://t.me/miss_rose_robot) 🌹
-┣★ [TG MANAGER ROBOT](https://t.me/tg_manager_robot) 💫
-┣★ [THE KANISHKA BOT](https://t.me/the_kanishka_bot) 💥
-┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
-┗━━━━━━━━━━━━━━━━━━┛
+๏─────────────────────────๏
+๏ 24×7 ᴜᴘᴛɪᴍᴇ
+๏ ʟᴀɢ ғʀᴇᴇ
+๏ ɴᴏ ᴘʀᴏᴍᴏ ᴀɴᴅ sʜɪᴛs
+๏ ᴀᴅᴠᴀɴᴄᴇᴅ & ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+★ FOR MUSIC PLAY TYPE ☞ /mstart
+
+๏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ ғᴏʀ ᴍᴏʀᴇ...
+
+🥂𝐎𝐖𝐍𝐄𝐑🥂➪ @THE\_VIP\_BOY
+
+💞𝐆𝐑𝐎𝐔𝐏💞➪ @TG\_FRIENDSS
+
+🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀➪ @VIP\_CREATORS
+๏─────────────────────────๏
+
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
 
 ๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """
@@ -138,9 +147,9 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
+𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
                    
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
 """
 	          
 
@@ -445,7 +454,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/TheAnonymous2005",
+                            callback_data="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
                         ),
                     ],
                     [
