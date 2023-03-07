@@ -87,48 +87,41 @@ PM_START_TEXT = """
 
 ♧ 𝗠𝗬𝗦𝗘𝗟𝗙 {} 😃
 
-➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+➻ 𝚃𝙷𝙴 𝙼𝙾𝚂𝚃 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 𝚆𝙸𝚃𝙷 𝚂𝙾𝙼𝙴 𝙰𝚆𝙴𝚂𝙾𝙼𝙴 & 𝚄𝚂𝙴𝙵𝚄𝙻 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂.
 
-๏─────────────────────────๏
-๏ 24×7 ᴜᴘᴛɪᴍᴇ
-๏ ʟᴀɢ ғʀᴇᴇ
-๏ ɴᴏ ᴘʀᴏᴍᴏ ᴀɴᴅ sʜɪᴛs
-๏ ᴀᴅᴠᴀɴᴄᴇᴅ & ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs
+๏───────────────────────๏
+๏24𝚡7 𝚄𝙿𝚃𝙸𝙼𝙴 
+๏𝙻𝙰𝙶 𝙵𝚁𝙴𝙴
+๏𝙽𝙾 𝙿𝚁𝙾𝙼𝙾 & 𝙰𝙳𝚂
+๏𝙰𝙳𝚅𝙰𝙽𝙲𝙴 & 𝚄𝚂𝙴𝙵𝚄𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+๏𝙼𝚄𝚂𝙸𝙲 𝙿𝙻𝙰𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+๏𝚅𝙸𝚂𝙸𝚃 @TG\_FRIENDSS 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴...
+๏───────────────────────๏
 
-★ FOR MUSIC PLAY TYPE ☞ /mstart
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
 
-๏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ ғᴏʀ ᴍᴏʀᴇ...
 
-🥂𝐎𝐖𝐍𝐄𝐑🥂➪ @THE\_VIP\_BOY
-
-💞𝐆𝐑𝐎𝐔𝐏💞➪ @TG\_FRIENDSS
-
-🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀➪ @VIP\_CREATORS
-๏─────────────────────────๏
-
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
-
-๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
+            text="★ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ★ ",
             url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
+        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/Tg_Friendss"),
+        InlineKeyboardButton(text="⚙️𝐇𝐄𝐋𝐏⚙️", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/Tg_Friendss"),
-        InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
+        
+        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"https://t.me/THE_VIP_BOY"),
+        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/vip_creators"),
     ],
     [
         InlineKeyboardButton(
-            text="🥳𝐁𝐎𝐓 𝐑𝐄𝐏𝐎/𝐒𝐎𝐔𝐑𝐂𝐄🤩",
+            text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱",
             url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
         ),
     ],
@@ -147,9 +140,12 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
+
+
 𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
                    
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+
+
 """
 	          
 
