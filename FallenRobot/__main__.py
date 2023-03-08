@@ -107,7 +107,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="★ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ★ ",
-            url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
+            url=f"https://t.me/TG_STAR_ROBOT?startgroup=true",
         ),
     ],
     [
