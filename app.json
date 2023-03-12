@@ -28,12 +28,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "14050586"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "42a60d9c657b106370c79bb0a8ac560c"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, Leave this field empty if you don't have one.",
@@ -43,7 +43,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": ""
+         "value": "1808943146"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -60,12 +60,12 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "LOVERS_DUNIA"
+         "value": "TG_FRIENDSS"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -80,17 +80,17 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": ""
+         "value": "7AT86JXWTFKSFSCQ"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": ""
+         "value": "5LB4TAKPEKZ0"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": ""
+         "value": "1808943146"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -99,22 +99,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "1808943146"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "1808943146"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "1808943146"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "1808943146"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
