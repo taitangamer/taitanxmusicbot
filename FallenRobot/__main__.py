@@ -142,10 +142,11 @@ HELP_STRINGS = f"""
 
 
 
-𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
-                   
+🍁𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀🍁 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
+     
 
-
+              
+🧚
 """
 	          
 
