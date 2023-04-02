@@ -98,7 +98,7 @@ PM_START_TEXT = """
 ๏𝚅𝙸𝚂𝙸𝚃 @TG\_FRIENDSS 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴...
 ๏───────────────────────๏
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@taitangamerz⛦⃕͜🇮🇳𓊉
 
 
 """
@@ -106,18 +106,18 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="★ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ★ ",
-            url=f"https://t.me/TG_STAR_ROBOT?startgroup=true",
+            text="★ ᴀᴅᴅ ᴍᴇ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʙᴀʙʏ★ ",
+            url=f"https://t.me/Taitanxmusicsbot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/Tg_Friendss"),
+        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/Dangerous_fighter_clan_1"),
         InlineKeyboardButton(text="⚙️𝐇𝐄𝐋𝐏⚙️", callback_data="help_back"),
     ],
     [
         
-        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"@taitangamerz"),
+        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/Dangerous_fighter_clan_1"),
     ],
     [
         InlineKeyboardButton(
@@ -143,9 +143,9 @@ HELP_STRINGS = f"""
 ╔═════❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱════❍⊱❁۪۪
 ║
 ║┏━━━━━━➣
-║┣⪼ 𝙾𝚆𝙽𝙴𝚁 ➪ @THE\_VIP\_BOY
-║┣⪼ 𝙶𝚁𝙾𝚄𝙿 ➪ @TG\_FRIENDSS
-║┣⪼ 𝙾𝙵𝙵𝙸𝙲𝙴 ➪ @VIP\_CREATORS
+║┣⪼ 𝙾𝚆𝙽𝙴𝚁 ➪ @taitangamerz
+║┣⪼ 𝙶𝚁𝙾𝚄𝙿 ➪ @Dangerous_fighter_clan_1
+║┣⪼ 𝙾𝙵𝙵𝙸𝙲𝙴 ➪ @Dangerous_fighter_clan_1
 ║┗━━━━━━➣
 ║
 ╚═════════════════❍⊱❁۪۪
@@ -749,7 +749,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 1808943146 and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {BOT_NAME} sᴏʀᴄᴇ ᴄᴏᴅᴇ ɪs [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/THE_VIP_BOY)."
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {BOT_NAME} sᴏʀᴄᴇ ᴄᴏᴅᴇ ɪs [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/taitangamerz)."
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
